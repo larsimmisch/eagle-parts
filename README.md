@@ -1,0 +1,1 @@
+This is larsimmisch's library of Eagle (the CAD program) parts.
